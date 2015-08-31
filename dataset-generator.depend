@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1433060592 source:/home/thananop/Works/Playground/dataset-generator/main.cpp
+	"text_generator.h"
+	<iostream>
+	<vector>
+	<dirent.h>
+	<opencv2/opencv.hpp>
+	<sys/stat.h>
+	<sys/types.h>
+	<omp.h>
+
+1424796785 /usr/include/freetype2/ft2build.h
+	<config/ftheader.h>
+
+1424796786 /usr/include/freetype2/config/ftheader.h
+	<x86_64-linux-gnu/freetype2/config/ftheader.h>
+	<x86_64-linux-gnux32/freetype2/config/ftheader.h>
+	<i386-linux-gnu/freetype2/config/ftheader.h>
+	<aarch64-linux-gnu/freetype2/config/ftheader.h>
+	<alpha-linux-gnu/freetype2/config/ftheader.h>
+	<arm-linux-gnueabihf/freetype2/config/ftheader.h>
+	<arm-linux-gnueabi/freetype2/config/ftheader.h>
+	<hppa-linux-gnu/freetype2/config/ftheader.h>
+	<ia64-linux-gnu/freetype2/config/ftheader.h>
+	<m68k-linux-gnu/freetype2/config/ftheader.h>
+	<mipsel-linux-gnu/freetype2/config/ftheader.h>
+	<mips64el-linux-gnuabin32/freetype2/config/ftheader.h>
+	<mips64el-linux-gnuabi64/freetype2/config/ftheader.h>
+	<mips-linux-gnu/freetype2/config/ftheader.h>
+	<mips64-linux-gnuabin32/freetype2/config/ftheader.h>
+	<mips64-linux-gnuabi64/freetype2/config/ftheader.h>
+	<or1k-linux-gnu/freetype2/config/ftheader.h>
+	<powerpc-linux-gnuspe/freetype2/config/ftheader.h>
+	<powerpc64le-linux-gnu/freetype2/config/ftheader.h>
+	<powerpc64-linux-gnu/freetype2/config/ftheader.h>
+	<powerpc-linux-gnu/freetype2/config/ftheader.h>
+	<s390x-linux-gnu/freetype2/config/ftheader.h>
+	<s390-linux-gnu/freetype2/config/ftheader.h>
+	<sh4-linux-gnu/freetype2/config/ftheader.h>
+	<sparc64-linux-gnu/freetype2/config/ftheader.h>
+	<sparc-linux-gnu/freetype2/config/ftheader.h>
+	<x86_64-kfreebsd-gnu/freetype2/config/ftheader.h>
+	<i386-kfreebsd-gnu/freetype2/config/ftheader.h>
+	<i386-gnu/freetype2/config/ftheader.h>
+
+1432816258 source:/home/thananop/Works/Playground/dataset-generator/src/text_generator.cpp
+	"text_generator.h"
+
+1432746629 /home/thananop/Works/Playground/dataset-generator/include/text_generator.h
+	<iostream>
+	<string>
+	<ft2build.h>
+	<harfbuzz/hb.h>
+	<harfbuzz/hb-ft.h>
+	<opencv2/core/core.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+

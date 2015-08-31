@@ -1,0 +1,6 @@
+Thai Text Dataset Generator [Supplementary Program for Thai Scene Text Localization]
+
+Require Library
+ - OpenCV
+ - FreeType2
+ - Harfbuzz
